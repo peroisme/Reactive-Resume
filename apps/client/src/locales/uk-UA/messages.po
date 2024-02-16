@@ -8,7 +8,7 @@ msgstr ""
 "Language: uk\n"
 "Project-Id-Version: reactive-resume\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-02-01 09:12\n"
+"PO-Revision-Date: 2024-02-16 00:07\n"
 "Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
@@ -20,11 +20,11 @@ msgstr ""
 
 #: apps/client/src/pages/dashboard/settings/_dialogs/two-factor.tsx:169
 msgid "You have enabled two-factor authentication successfully."
-msgstr ""
+msgstr "Ви успішно ввімкнули двофакторну автентифікацію."
 
 #: apps/client/src/pages/home/sections/features/index.tsx:57
 msgid "{templatesCount} resume templates to choose from"
-msgstr ""
+msgstr "{templatesCount} шаблонів резюме на вибір"
 
 #: apps/client/src/pages/builder/sidebars/left/sections/shared/section-options.tsx:114
 msgid "{value, plural, one {Column} other {Columns}}"
@@ -168,11 +168,11 @@ msgstr ""
 
 #: apps/client/src/pages/dashboard/resumes/_dialogs/lock.tsx:39
 msgid "Are you sure you want to unlock this resume?"
-msgstr ""
+msgstr "Ви впевнені, що хочете розблокувати це резюме?"
 
 #: apps/client/src/pages/dashboard/settings/_sections/danger.tsx:94
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ви впевнені?"
 
 #. For example, Computer Science or Business Administration
 #: apps/client/src/pages/builder/sidebars/left/dialogs/education.tsx:73
@@ -195,15 +195,15 @@ msgstr ""
 #: apps/client/src/pages/auth/forgot-password/page.tsx:94
 #: apps/client/src/pages/dashboard/settings/_dialogs/two-factor.tsx:236
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: apps/client/src/pages/builder/sidebars/right/sections/theme.tsx:73
 msgid "Background Color"
-msgstr ""
+msgstr "Колір фону"
 
 #: apps/client/src/pages/auth/backup-otp/page.tsx:75
 msgid "Backup Code"
-msgstr ""
+msgstr "Резервний код"
 
 #: apps/client/src/pages/auth/backup-otp/page.tsx:80
 msgid "Backup Codes may contain only lowercase letters or numbers, and must be exactly 10 characters."
